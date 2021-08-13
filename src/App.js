@@ -11,9 +11,10 @@ import Payment from "./Payment";
 import { loadStripe } from "@stripe/stripe-js";
 import { Elements } from "@stripe/react-stripe-js";
 import Orders from './Orders';
+// import Footer from './Footer';
 
 const promise = loadStripe(
-  "pk_test_51Hz7wRBBW5JF6phFLDarUfjPjSDWVvdDp91ZX3CNHejqv1bdH3EmjMJk76XiBGy3GyoHiD8Ouzq8iKzhzxiKsY5a00yFHRnqtH"
+  "pk_test_51HzpDlGTTv98lOkTuxD3dIdA8MHGLEVRHhRByZyTB0ogKOgJmzpfcYWSi75Ka9EtKy2TsHZ9UkIlAQ6596hmOZ9G00dJWKjI2f"
 );
 
 
@@ -77,6 +78,7 @@ function App() {
         <Route path="/">
           <Header />
           <Home />
+          {/* <Footer /> */}
         </Route>
       </Switch>
     </div>

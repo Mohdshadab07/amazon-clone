@@ -1,3 +1,23 @@
+# `amazon-clone`
+### `Frontend`
+### HTML5,CSS3,JavaScript,ReactJS
+![License](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg) 
+![License](https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg)
+![License](https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg)
+![License](https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg)
+### `Backend`
+### Node.js,Express.js
+![License](https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg)
+![License](https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg)
+### `Authentication,Database & Hosting`
+### Firebase
+![License](https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg) 
+
+### `Payment Gateway`
+### Stripe
+![License](https://www.vectorlogo.zone/logos/stripe/stripe-ar21.svg)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
